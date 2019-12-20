@@ -57,5 +57,5 @@ timer2.setSeconds(5);
 // 課題3: 課題2で生成したインスタンスのstartメソッドを実行する
 // - window.setInterval内に実装したconsole.logで「'タイマーの名前 : 残り時間〇秒'」のように表示されるのを確認する
 
-// timer1.start();
+timer1.start();
 timer2.start();
